@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "selenium-webdriver": "^4.20.0",
+    "webdriver": "^8.36.1"
+  }
+}
